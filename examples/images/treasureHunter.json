@@ -39,15 +39,15 @@
       "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 24 },
       "sourceSize": { "w": 28, "h": 24 },
       "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "waraxe.png": {
+      "frame": { "x": 8, "y": 2, "w": 16, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 24 },
+      "sourceSize": { "w": 16, "h": 16 },
+      "pivot": { "x": 0.5, "y": 0.5 }
     }
-  },
-  "treasure.png": {
-    "frame": { "x": 25, "y": 2, "w": 28, "h": 24 },
-    "rotated": false,
-    "trimmed": false,
-    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 24 },
-    "sourceSize": { "w": 28, "h": 24 },
-    "pivot": { "x": 0.5, "y": 0.5 }
   },
   "meta": {
     "app": "http://www.codeandweb.com/texturepacker",

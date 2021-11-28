@@ -16,6 +16,14 @@
       "sourceSize": { "w": 32, "h": 32 },
       "pivot": { "x": 0.5, "y": 0.5 }
     },
+    "waraxe.png": {
+      "frame": { "x": 123, "y": 2, "w": 32, "h": 32 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 24 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
     "dungeon.png": {
       "frame": { "x": 2, "y": 36, "w": 512, "h": 512 },
       "rotated": false,
@@ -38,14 +46,6 @@
       "trimmed": false,
       "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 24 },
       "sourceSize": { "w": 28, "h": 24 },
-      "pivot": { "x": 0.5, "y": 0.5 }
-    },
-    "waraxe.png": {
-      "frame": { "x": 8, "y": 2, "w": 16, "h": 16 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 24 },
-      "sourceSize": { "w": 16, "h": 16 },
       "pivot": { "x": 0.5, "y": 0.5 }
     }
   },
